@@ -1,35 +1,23 @@
-Electronc Shop Biliing System using java.
-FEATURES
-User-friendly Java Swing GUI
-✔ Product & Inventory Management
-✔ Shopping Cart System
-✔ Customer Details Entry
-✔ Automatic Bill Generation
-✔ Real-Time Total Calculation
-✔ Stock Availability Check
-✔ Product Search Function
-✔ Input Validation
-✔ Receipt Generation
-✔ Automatic Inventory Update
-✔ Preloaded Electronic Products
-TECHNOLOGIES
-Java
-🖥️ Java Swing (GUI)
-🎨 AWT
-🧩 Object-Oriented Programming (OOP)
-📦 Java Collections Framework (LinkedHashMap)
-🏗️ MVC (Model–View–Service) Architecture
-💻 JDK
-🛠️ NetBeans / Eclipse / IntelliJ IDEA (whichever IDE you used)
-⚙️ Java Virtual Machine (JVM)
-FOR RUN 
-Install JDK 8 or above.
-Open the project in NetBeans/Eclipse/IntelliJ IDEA.
-Build and compile the project.
-Run BillingGUI.java.
-Select products and enter the quantity.
-Add items to the cart.
-Enter the customer name.
-Click Generate Bill to view the receipt.
+# 🛒 Electronic Shop Billing System
 
+## 📌 About
+This is a Java-based Electronic Shop Billing System developed as my beginner Java project.
 
+## ✨ Features
+- Add Products
+- Generate Bills
+- Calculate Total Price
+- User-Friendly Interface
+
+## 🛠️ Technologies Used
+- Java
+- Swing
+- OOP Concepts
+
+## 🚀 How to Run
+1. Open the project in your Java IDE.
+2. Run the Main class.
+3. Start using the application.
+
+## 👩‍💻 Author
+Jahnavi Kesarwani
