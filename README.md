@@ -19,5 +19,16 @@ This is a Java-based Electronic Shop Billing System developed as my beginner Jav
 2. Run the Main class.
 3. Start using the application.
 
+## 📷 Screenshots
+
+### Main Window
+![Main Window](screenshots/main.png)
+
+### Billing Screen
+![Billing Screen](screenshots/billing.png)
+
+### Product Screen
+![Product Screen](screenshots/product.png)
+
 ## 👩‍💻 Author
 Jahnavi Kesarwani
